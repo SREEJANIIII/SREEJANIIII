@@ -6,7 +6,7 @@
 
 ---
 
-<h1 align="center">🤖 AI & ML Enthusiast</h1>
+<h1 align="center">FULL STACK DEVELOPER </h1>
 
 <p align="center">
 Passionate about building impactful web applications and intelligent systems.<br>
