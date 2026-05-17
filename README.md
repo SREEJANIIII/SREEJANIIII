@@ -1,27 +1,27 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SREEJANIIII&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=SREEJANI+BHATTACHARYA;MERN+Stack+Developer;Open+Source+Contributor;AI+%26+ML+Enthusiast" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=SREEJANI%20DE%20S&fontSize=70&fontAlign=50&fontAlignY=40&desc=AI%20•%20ML%20•%20Full%20Stack%20Developer%20•%20Open%20Source%20Enthusiast&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20To%20My%20Profile&fontSize=50&fontAlign=50&fontAlignY=40&desc=Code%20•%20Create%20•%20Contribute&descAlignY=65&animation=fadeIn"/>
+
+---
 
 <h1 align="center">🤖 AI & ML Enthusiast</h1>
 
 <p align="center">
-Passionate about building intelligent systems and impactful web applications.<br>
-Exploring AI, Full Stack Development and Open Source.
+Passionate about building impactful web applications and intelligent systems.<br>
+Exploring Full Stack Development and Open Source.
 </p>
 
 ---
 
-<h2 align="center">✨ About Me</h2>
+## 🌸 About Me
 
-<p align="center">
-🎓 CSE Student <br>
-💻 MERN Stack Developer <br>
-🚀 Open Source Contributor at GSSoC 2026 <br>
-🧠 AI & Hackathon Enthusiast <br>
-🌱 Currently learning advanced web technologies
-</p>
+- 🎓 ISE 1st Year Student at MSRIT 
+- 💻 MERN Stack Developer  
+- 🚀 Contributor at GSSoC 2026  
+- 🧠 Hackathon & AI Enthusiast  
+- 🌱 Currently learning advanced web technologies  
 
 ---
 
@@ -38,34 +38,37 @@ Exploring AI, Full Stack Development and Open Source.
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,html,css,git,github,vscode" />
-
 </p>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/SREEJANIIII"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/SREEJANIIII">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
 
 ---
 
-<h2 align="center">💖 Quote</h2>
-
 <p align="center">
-<i>"Code. Learn. Build. Repeat."</i>
+✨ <i>Code. Learn. Build. Repeat.</i> ✨
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
 ## 🚀 About Me
 
 * 💻 Passionate about Web Development and Open Source
