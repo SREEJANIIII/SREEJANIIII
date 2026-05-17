@@ -1,12 +1,70 @@
-# Hi there, I'm Sreejani
-
-### MERN Stack Developer | Open Source Contributor | AI & Web Enthusiast
-
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SREEJANIIII&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SREEJANIIII&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=SREEJANI%20DE%20S&fontSize=70&fontAlign=50&fontAlignY=40&desc=AI%20•%20ML%20•%20Full%20Stack%20Developer%20•%20Open%20Source%20Enthusiast&descAlignY=60&animation=fadeIn"/>
+
+<h1 align="center">🤖 AI & ML Enthusiast</h1>
+
+<p align="center">
+Passionate about building intelligent systems and impactful web applications.<br>
+Exploring AI, Full Stack Development and Open Source.
 </p>
 
 ---
+
+<h2 align="center">✨ About Me</h2>
+
+<p align="center">
+🎓 CSE Student <br>
+💻 MERN Stack Developer <br>
+🚀 Open Source Contributor at GSSoC 2026 <br>
+🧠 AI & Hackathon Enthusiast <br>
+🌱 Currently learning advanced web technologies
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SREEJANIIII&show_icons=true&theme=radical" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=SREEJANIIII&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SREEJANIIII&layout=compact&theme=radical" />
+</p>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,html,css,git,github,vscode" />
+
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+<a href="YOUR_LINKEDIN_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/SREEJANIIII"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+<h2 align="center">💖 Quote</h2>
+
+<p align="center">
+<i>"Code. Learn. Build. Repeat."</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 ## 🚀 About Me
 
