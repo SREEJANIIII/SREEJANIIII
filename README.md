@@ -49,6 +49,10 @@ Exploring Full Stack Development and Open Source.
 
 ## 🌐 Connect With Me
 
+<a href="https://discord.com/users/1433079081775136858">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/sreejani-bhattacharya-966a20366/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
