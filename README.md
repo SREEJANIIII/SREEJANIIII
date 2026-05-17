@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=SREEJANI+BHATTACHARYA;MERN+Stack+Developer;Open+Source+Contributor;AI+%26+ML+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=SREEJANI+BHATTACHARYA;FULL+STACK+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR;AI+%26+ML+ENTHUSIAST;MERN+STACK+ENGINEER" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20To%20My%20Profile&fontSize=50&fontAlign=50&fontAlignY=40&desc=Code%20•%20Create%20•%20Contribute&descAlignY=65&animation=fadeIn"/>
