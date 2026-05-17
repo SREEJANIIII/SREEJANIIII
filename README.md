@@ -49,7 +49,7 @@ Exploring Full Stack Development and Open Source.
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/sreejani-bhattacharya-966a20366/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -57,7 +57,7 @@ Exploring Full Stack Development and Open Source.
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:bhattacharyasreejani@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
@@ -69,14 +69,6 @@ Exploring Full Stack Development and Open Source.
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-## 🚀 About Me
-
-* 💻 Passionate about Web Development and Open Source
-* 🌱 Currently exploring MERN Stack development and Python
-* 🤝 Contributor at **GirlScript Summer of Code 2026**
-* 🧠 Interested in AI-powered applications and creative problem solving
-* 🎯 Focused on building impactful and user-friendly projects
-* ⚡ Love learning through hackathons, collaboration, and real-world projects
 
 ---
 
@@ -129,20 +121,6 @@ An intelligent Tic-Tac-Toe game featuring custom AI strategies, threat detection
 Worked on innovative problem-solving projects involving AI integration, web development, and collaboration during hackathons.
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SREEJANIIII&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SREEJANIIII&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SREEJANIIII&layout=compact&theme=radical" />
-</p>
 
 ## 🌐 Connect With Me
 
