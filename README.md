@@ -72,7 +72,7 @@ Worked on innovative problem-solving projects involving AI integration, web deve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SREEJANIIII&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SREEJANIIII&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
@@ -80,9 +80,8 @@ Worked on innovative problem-solving projects involving AI integration, web deve
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SREEJANIIII&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SREEJANIIII&layout=compact&theme=radical" />
 </p>
----
 
 ## 🌐 Connect With Me
 
