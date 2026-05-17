@@ -18,10 +18,11 @@ Exploring Full Stack Development and Open Source.
 ## 🌸 About Me
 
 - 🎓 ISE 1st Year Student at MSRIT 
-- 💻 MERN Stack Developer  
-- 🚀 Contributor at GSSoC 2026  
-- 🧠 Hackathon & AI Enthusiast  
-- 🌱 Currently learning advanced web technologies  
+- 💻 Full Stack Developer focused on MERN Stack
+- 🚀 Open Source Contributor at GSSoC 2026
+- 🤖 Interested in AI, ML and scalable web applications
+- 🧠 Hackathon Enthusiast & Problem Solver
+- 🌱 Continuously learning and building impactful projects
 
 ---
 
